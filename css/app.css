@@ -9,6 +9,8 @@ h4 { font-size: 1.25rem; font-weight: 700; color: #333; margin-top: 1.6rem;}
 
 p, li { font-size: 1.25rem; color: #333; }
 
+p {line-height: 1.938rem}
+
 li { margin-top: 0.3rem; }
 
 div.intro { margin-top: 1rem; }
@@ -19,7 +21,7 @@ div.toc h2 {}
 div.toc ul li a {color:#333;}
 
 div.footer { margin-top: 4rem; margin-bottom: 1rem; }
-div.footer p { font-style: italic; line-height: 1}
+div.footer p { font-style: italic; margin-top: 0; margin-bottom: 0.2rem;}
 
 @media screen
   and (min-width: 800px) {

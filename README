@@ -2,7 +2,13 @@ An opinionated, minimalistic how-to guide for meditation.
 
 # Todo
 - Configure nginx to pick up starting-meditation.com (without www)
+- Set nginx sendfile to off to refresh cache
 - Use Hemingway to find hard-to-read sentences
 - Use Grammarly to identify spelling and grammar mistakes
 - Maybe write something about mindfulness
-- Add missing paragraphs on philosophy
+- Add note on meditation-in-action
+
+## Philosophy topics to add
+- Connectivity
+- Compassion
+- Present state
