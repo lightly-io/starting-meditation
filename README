@@ -2,6 +2,7 @@ An opinionated, minimalistic how-to guide for meditation.
 
 # Todo
 - Configure nginx to pick up starting-meditation.com (without www)
+- Change link to Github from Mattis' profile to this specific repo
 - Use Hemingway to find hard-to-read sentences
 - Use Grammarly to identify spelling and grammar mistakes
 - Use media queries to make headings smaller / larger on mobile
