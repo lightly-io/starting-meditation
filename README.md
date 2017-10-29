@@ -1,7 +1,5 @@
+# Starting Meditation
+
 An opinionated, minimalistic how-to guide for meditation.
 
 Name & concept inspired by Starting Strength by Mark Rippetoe.
-
-# Todo
-- Use Hemingway to find hard-to-read sentences.
-- Use Grammarly to identify spelling and grammar mistakes.
